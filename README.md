@@ -1,5 +1,7 @@
 # m2i-jour2
 
+Modification suite au stach
+
 Ajout d'un texte
 
 Texte romanesque[modifier | modifier le code]
