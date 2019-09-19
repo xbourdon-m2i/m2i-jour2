@@ -1,6 +1,6 @@
 # m2i-jour2
 
-Modification suite au stach
+Modif pour stach dans master
 
 Ajout d'un texte
 
